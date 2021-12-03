@@ -9,7 +9,7 @@ Second class name is map for shape of the game
 
 and third class name is gameplay for play the game
 
-Like this:
+The output like this:
 
 
 
