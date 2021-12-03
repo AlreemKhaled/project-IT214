@@ -3,6 +3,12 @@ Brick Breaker Game
 
 Creat Brick Breaker Game by using Java.
 
+firstfull, I creat 3 class in package brickbreaker0 first class name is BrickBreaker0 for Frame. 
+
+Second class name is map for shape of the game
+
+and third class name is gameplay for play the game
+
 Like this:
 
 
